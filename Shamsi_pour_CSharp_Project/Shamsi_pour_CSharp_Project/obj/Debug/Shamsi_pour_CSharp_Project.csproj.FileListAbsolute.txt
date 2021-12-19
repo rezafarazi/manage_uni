@@ -1,0 +1,16 @@
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\bin\Debug\Shamsi_pour_CSharp_Project.exe
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\bin\Debug\Shamsi_pour_CSharp_Project.pdb
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.csprojResolveAssemblyReference.cache
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.Form1.resources
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.Properties.Resources.resources
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.csproj.GenerateResource.Cache
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.exe
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.pdb
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.Main_Page_Student.resources
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.Ditalis_Student.resources
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.Money.resources
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.Add_remove.resources
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\bin\Debug\DataBase.mdf
+c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\bin\Debug\DataBase_log.ldf
+C:\Users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.Mgmt.resources
+C:\Users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\obj\Debug\Shamsi_pour_CSharp_Project.root.resources
