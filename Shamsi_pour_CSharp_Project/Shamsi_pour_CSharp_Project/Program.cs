@@ -9,7 +9,7 @@ namespace Shamsi_pour_CSharp_Project
     {
 
         //public static string url=@"Data Source=(LocalDB)\v11.0;AttachDbFilename=c:\users\rezafta\documents\visual studio 2012\Projects\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\DataBase.mdf;Integrated Security=True;Connect Timeout=30";
-        public static string url = @"data source=(LocalDB)\v11.0;attachdbfilename=|DataDirectory|\DataBase.mdf;integrated security=True;MultipleActiveResultSets=True;";
+        public static string url = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Rezafta\Desktop\app\manage_uni\Shamsi_pour_CSharp_Project\Shamsi_pour_CSharp_Project\DataBase.mdf;Integrated Security=True;Connect Timeout=30";
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
